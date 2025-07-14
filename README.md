@@ -1,2 +1,2 @@
-# -Week-1
-redict EV charging demand using Machine Learning techniques
+# Week-1
+Predict EV charging demand using Machine Learning techniques
